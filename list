@@ -1,0 +1,17 @@
+// const tr = document.createElement('tr');
+//     const td = document.createElement('td');
+//     td.innerText = titleInput.value;
+//     td.innerText = authorInput.value;
+//     tr.appendChild(td);
+//     tr.appendChild(td);
+//     tableBody.appendChild(tr);
+//     titleInput.value = '';
+//     authorInput.value = '';
+
+// tableBody.innerHTML = ` <tr>
+//               <td>${titleInput.value}</td>
+//               <td>${authorInput.value}</td>
+//               <td><button class="delete-btn">X</button></td>
+//             </tr>`;
+// titleInput.value = '';
+// authorInput.value = '';
